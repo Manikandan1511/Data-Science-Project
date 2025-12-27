@@ -1,3 +1,3 @@
-#Data Science Project
+# Data Science Project
 
-##Status : Ongoing project 
+## Status : Ongoing
