@@ -1,0 +1,21 @@
+SaleID,Product,Category,Quantity,Price,Discount,Region,SaleDate,Revenue
+1,MacBook Pro,Electronics,1,2500,0.05,North,2025-01-05,2375.0
+2,Ergonomic Chair,Furniture,4,350,0.1,South,2025-01-07,1260.0
+3,iPhone 15,Electronics,2,999,0.0,East,2025-01-10,1998.0
+4,Desk Lamp,Furniture,10,45,0.15,West,2025-01-12,382.5
+5,USB-C Hub,Accessories,15,60,0.2,North,2025-01-15,720.0
+6,Monitor 4K,Electronics,3,500,0.05,South,2025-01-18,1425.0
+7,Mechanical Keyboard,Accessories,5,120,0.0,East,2025-01-20,600.0
+8,Standing Desk,Furniture,2,800,0.1,West,2025-01-22,1440.0
+9,Webcam HD,Accessories,7,95,0.05,North,2025-01-25,631.75
+10,Wireless Mouse,Accessories,12,30,0.0,South,2025-01-28,360.0
+11,iPad Air,Electronics,3,600,0.05,North,2025-02-02,1710.0
+12,Coffee Table,Furniture,1,150,0.0,East,2025-02-05,150.0
+13,Gaming Headset,Accessories,8,80,0.1,West,2025-02-08,576.0
+14,Smart Watch,Electronics,5,250,0.0,South,2025-02-12,1250.0
+15,Bookshelf,Furniture,2,200,0.2,North,2025-02-15,320.0
+16,Bluetooth Speaker,Accessories,10,55,0.05,East,2025-02-18,522.5
+17,Charging Dock,Accessories,20,25,0.15,West,2025-02-22,425.0
+18,Noise Cancelling Headphones,Electronics,4,350,0.1,North,2025-02-25,1260.0
+19,Office Rug,Furniture,1,120,0.0,South,2025-02-27,120.0
+20,Laptop Stand,Accessories,6,40,0.0,East,2025-03-02,240.0
